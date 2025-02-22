@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Graham Hubert McCallum
-email: website@ghmccallum.co.uk 
+#email: website@ghmccallum.co.uk 
 description: >- # this means to ignore newlines until "baseurl:"
   Graham Hubert McCallum's online CV.
 baseurl: "/docs/" # the subpath of your site, e.g. /blog
 url: "https://ghmccallum.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+#github_username:  jekyll
 
 # Build settings
 theme: minima
