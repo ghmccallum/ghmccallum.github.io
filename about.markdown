@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome! I am building this website, and as such there is not much to see. In the future it will be a public space for my work and interests. 
+Welcome! I am building this website, and as such there is not much to see yet. In the future it will be a public space for my work and interests. 
 
 Sites of note:
 
