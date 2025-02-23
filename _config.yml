@@ -28,7 +28,8 @@ discord_username: __ghm
 github_username:  ghmccallum
 
 # Build settings
-theme: minima
+#theme: minima
+theme: Midnight
 plugins:
   - jekyll-feed
 
